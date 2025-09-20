@@ -5,7 +5,7 @@ import linkedin from "../src/assets/linkedin.svg";
 function Footer() {
   return (
     <div className="absolute bottom-8 right-10 sm:right-15  flex gap-7">
-      <a href="https://github.com/Divyanshu708">
+      <a href="https://github.com/Divyanshu708/Bill-splitter">
         <img
           src={github}
           alt="github"

@@ -1,8 +1,7 @@
 # Bill Splitter
 
-A simple project that I made for  myself at first, but now wanted to share with you.
-If you get confuse when it comes to calculate the amount when in you group different person spent different amount and we have to tell whom each one have to pay to the other so that everyone spending becomes equal the use this splitter
+If you ever get confused when trying to calculate how much each person owes in a group—especially when different people have spent different amounts—this splitter will help. It tells you who needs to pay whom so that everyone ends up contributing equally.
 
-## TO run it locally:
+## To run it locally:
 ### `npm i`
 ### `npm start`

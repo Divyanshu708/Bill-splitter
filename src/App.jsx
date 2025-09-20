@@ -1,5 +1,5 @@
 import { useState } from "react";
-import OutputSharing from "./OutputSharing";
+import OutputSharing from "../utils/OutputSharing";
 import { v4 as uuidv4 } from "uuid";
 import { ToastContainer, toast, Bounce, Flip, Slide } from "react-toastify";
 import Overlay from "../Components/Overlay";

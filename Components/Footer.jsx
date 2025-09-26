@@ -12,7 +12,7 @@ function Footer() {
           className="hover:scale-110 cursor-pointer transition-all"
         />
       </a>
-      <a href="https://www.linkedin.com/in/divyanshu-bhagat-95985a227/ ">
+      {/* <a href="https://www.linkedin.com/in/divyanshu-bhagat-95985a227/ ">
         <img
           src={twitter}
           alt="twitter"
@@ -25,7 +25,7 @@ function Footer() {
           alt="linkedin"
           className="hover:scale-110 cursor-pointer transition-all"
         />
-      </a>
+      </a> */}
     </div>
   );
 }
